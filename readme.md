@@ -64,7 +64,7 @@ Certainly! Here's an expanded section on how to run the API application:
    ```
 
 4. **Configuration:**
-   Update the MongoDB connection string in `compose.yaml` with your MongoDB database credentials. Replace `your-mongodb-uri>` with your MongoDB Atlas URI.
+   Update the MongoDB connection string in `compose.yaml` with your MongoDB database credentials. Replace `<your-mongodb-uri>` with your MongoDB Atlas URI.
 
 5. **Running the Application:**
 
